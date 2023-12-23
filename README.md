@@ -2,7 +2,7 @@
 
 <br>
 
-<li> I am <a href = "https://github.com/Vikranth3140">Swara Parekh</a>. </li>
+<li> I am Swara Parekh</a>. </li>
 <li> I am a CSAM Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a>.</li>
 <li> I am interested in Web Development. </li>
 
