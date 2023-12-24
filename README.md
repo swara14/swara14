@@ -1,10 +1,6 @@
-<h2> Hi </h2>
-
-<br>
-
-<li> I am Swara Parekh</a>. </li>
-<li> I am a CSAM Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a>.</li>
-<li> I am interested in Web Development. </li>
+<li> Swara Parekh</a>. </li>
+<li> CSAM Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a>.</li>
+<li> Interested in Web Development. </li>
 
 <br>
 
