@@ -1,6 +1,5 @@
-<li> Hi, I'm Swara Parekh</a> </li>
-<li> Computer Science and Applied Math Undergraduate
-<li> Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a></li>
+<li> Hi, I'm Swara Parekh, a Computer Science and Applied Math undergraduate. </a> </li>
+<li> I'm currently a sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a></li>
 <!-- <li> Interested in Web Development</li> -->
 
 <br>
