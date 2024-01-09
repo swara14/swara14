@@ -1,6 +1,6 @@
 <li> Hi, I'm Swara Parekh, a Computer Science and Applied Math undergraduate. </a> </li>
-<li> I'm currently a sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a></li>
-<!-- <li> Interested in Web Development</li> -->
+<li> I'm currently a sophomore at <a href = "https://github.com/IIIT-Delhi">IIIT Delhi </a></li>
+
 
 <br>
 ![](https://komarev.com/ghpvc/?username=swara14&color=blueviolet)
