@@ -21,6 +21,6 @@
 
 <br>
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=swara14&show_icons=true&card_width=320&theme=radical" />
+/* <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=swara14&show_icons=true&card_width=320&theme=radical" /> */
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swara14&langs_count=5&layout=donut&theme=radical" />
