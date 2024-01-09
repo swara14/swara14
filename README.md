@@ -1,9 +1,9 @@
-<li> Swara Parekh</a> </li>
-<li> CSAM Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a></li>
-<li> Interested in Web Development</li>
+<li> Hi, I'm Swara Parekh</a> </li>
+<li> Computer Science and Applied Math Undergraduate
+<li> Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a></li>
+<!-- <li> Interested in Web Development</li> -->
 
 <br>
-
 ![](https://komarev.com/ghpvc/?username=swara14&color=blueviolet)
 
 <h3 align="left">Languages and Tools:</h3>
