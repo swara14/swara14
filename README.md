@@ -3,7 +3,7 @@
 
 
 <br>
-![](https://komarev.com/ghpvc/?username=swara14&color=blueviolet)
+(https://komarev.com/ghpvc/?username=swara14&color=blueviolet)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
