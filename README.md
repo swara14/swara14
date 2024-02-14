@@ -2,8 +2,7 @@
 <li> I'm currently a sophomore at <a href = "https://github.com/IIIT-Delhi">IIIT Delhi </a></li>
 
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=swara14&color=blueviolet" alt="Profile Visitors Count">
+<!-- <img src="https://komarev.com/ghpvc/?username=swara14&color=blueviolet" alt="Profile Visitors Count"> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
